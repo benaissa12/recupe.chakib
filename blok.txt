@@ -1,0 +1,13 @@
+Les fichiers vont donc nous offrir une alternative aux bases de 
+données qui servent également à stocker des informations de manière
+ organisée et définitive et que nous étudierons plus tard dans le 
+cours même s’il faut bien admettre qu’on préférera dans la majorité
+ des cas utiliser les bases de données plutôt que les fichiers pour
+ enregistrer les données.
+
+Il reste néanmoins intéressant d’apprendre à stocker des données 
+dans des fichiers car on préfèrera dans certains cas stocker des 
+données dans des fichiers plutôt que dans des bases de données 
+(par exemple lorsqu’on laissera la possibilité aux utilisateurs 
+de télécharger ensuite le fichier avec 
+ses différentes informations à l’intérieur).
